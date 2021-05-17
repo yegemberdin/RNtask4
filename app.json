@@ -1,0 +1,12 @@
+{
+  "name": "RNtask4",
+  "displayName": "RNtask4",
+  "expo": {
+    "name": "RNtask4",
+    "slug": "RNtask4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
