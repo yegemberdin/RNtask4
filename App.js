@@ -11,14 +11,14 @@ import { FriendsContext } from './FriendsContext';
 
 const Stack = createStackNavigator();
 
-class App extends React.Component {
+export default class App extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
       possibleFriends: [
-        'Alice',
-        'Bob',
-        'Sammy',
+        'Naz',
+        'Aru',
+        'Dikon',
       ],
       currentFriends: [],
     }
